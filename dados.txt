@@ -1,7 +1,0 @@
-stock,position
-PETR4,12.9
-VALE3,9.1
-BBSE3,7.8
-ENBR3,7.6
-CPLE6,6.0
-BBAS3,5.3
